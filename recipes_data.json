@@ -448,4 +448,96 @@
             "shingara"
         ]
     },
+    {
+        "sl": "016",
+        "_id": "fa9e-4e0E-5MTd",
+        "chef_id": "th-06-fwo",
+        "name": "Morog Pulao",
+        "image": "recipes_img/Morog_Pulao.png",
+        "ingredients": [
+            "Basmati rice",
+            "Chicken",
+            "Onion",
+            "Cashew nuts",
+            "Raisins"
+        ],
+        "cooking_method": "Cook the chicken with spices and set aside. Fry onions and cashew nuts, add rice and chicken stock, and cook until the rice is fluffy. Add the chicken and raisins and cook for a few more minutes.",
+        "rating": 4.6,
+        "description": "Morog Pulao is a delicious Bangladeshi rice dish made with tender chicken, fragrant basmati rice, and a blend of spices. It's perfect for a special occasion or a family dinner.",
+        "category": "rice",
+        "tags": [
+            "chicken",
+            "spicy",
+            "festive"
+        ]
+    },
+    {
+        "sl": "017",
+        "_id": "XW4e-M2eE-896V",
+        "chef_id": "th-06-fwo",
+        "name": "Khichuri",
+        "image": "recipes_img/Khichuri.png",
+        "ingredients": [
+            "Rice",
+            "Lentils",
+            "Onion",
+            "Ginger",
+            "Spices"
+        ],
+        "cooking_method": "Wash the rice and lentils and cook with spices. Fry onions and ginger and add to the cooked rice and lentils. Serve hot with papadum and pickles.",
+        "rating": 4.3,
+        "description": "Khichuri is a popular Bangladeshi comfort food made with rice and lentils. It's a one-pot dish that's easy to make and perfect for a hearty meal on a cold day.",
+        "category": "rice",
+        "tags": [
+            "comfort food",
+            "one-pot",
+            "vegetarian"
+        ]
+    },
+    {
+        "sl": "018",
+        "_id": "f33e-4ReE-58gG",
+        "chef_id": "th-06-fwo",
+        "name": "Bengali-style Vegetable Khichuri",
+        "image": "recipes_img/Bengali_style_Vegetable_Khichuri.png",
+        "ingredients": [
+            "Rice",
+            "Lentils",
+            "Onion",
+            "Ginger",
+            "Garlic",
+            "Mixed vegetables"
+        ],
+        "cooking_method": "Wash the rice and lentils and cook with spices. Fry onions, ginger, and garlic, add mixed vegetables, and cook for a few minutes. Add the cooked rice and lentils to the vegetables and cook for a few more minutes. Serve hot with papadum and pickles.",
+        "rating": 4.2,
+        "description": "Bengali-style Vegetable Khichuri is a healthy and delicious one-pot meal made with rice, lentils, and mixed vegetables. It's perfect for a quick and easy weeknight dinner.",
+        "category": "rice",
+        "tags": [
+            "one-pot",
+            "vegetarian",
+            "healthy"
+        ]
+    },
+    {
+        "sl": "019",
+        "_id": "Y78e-KI9E-56Td",
+        "chef_id": "jm-02-qwf",
+        "name": "Luchi",
+        "image": "recipes_img/Luchi.png",
+        "ingredients": [
+            "All-purpose flour",
+            "Salt",
+            "Oil",
+            "Warm water"
+        ],
+        "cooking_method": "Mix the flour and salt, then add oil and warm water to form a dough. Divide into small balls and roll out into discs. Fry in hot oil until golden brown.",
+        "rating": 4.7,
+        "description": "Luchi is a popular Bangladeshi deep-fried bread made from all-purpose flour. It's a delicious accompaniment to a variety of dishes, from spicy curries to sweet chutneys.",
+        "category": "appetizer",
+        "tags": [
+            "vegetarian",
+            "deep-fried",
+            "traditional"
+        ]
+    },
 ]
