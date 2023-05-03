@@ -540,4 +540,76 @@
             "traditional"
         ]
     },
+    
+    {
+        "sl": "020",
+        "_id": "faXc-9EuE-5T6d",
+        "chef_id": "ai-05-fpw",
+        "name": "Mutton Biryani",
+        "image": "recipes_img/Mutton_Biryani.png",
+        "ingredients": [
+            "Basmati rice",
+            "Mutton",
+            "Onion",
+            "Tomato",
+            "Yogurt",
+            "Spices"
+        ],
+        "cooking_method": "Marinate the mutton in yogurt and spices. Fry onions until brown. Add tomatoes and cook until they are soft. Add the marinated mutton and cook for a few minutes. Parboil the rice and layer with the mutton mixture in a pot. Cook on low heat until the rice is fully cooked. Serve hot with raita and salad.",
+        "rating": 4.7,
+        "description": "Mutton Biryani is a flavorful and aromatic Bangladeshi rice dish made with tender mutton and spices. It's a hearty meal that's perfect for special occasions and gatherings.",
+        "category": "rice",
+        "tags": [
+            "mutton",
+            "spicy",
+            "aromatic"
+        ]
+    },
+    {
+        "sl": "021",
+        "_id": "frj9-4eXE-32Ld",
+        "chef_id": "jm-02-qwf",
+        "name": "Tormuj Juice",
+        "image": "recipes_img/Tormuj_Juice.png",
+        "ingredients": [
+            "4 cups diced tormuj",
+            "1/2 cup water",
+            "1/4 cup sugar",
+            "Juice of 1 lime",
+            "A pinch of salt"
+        ],
+        "cooking_method": "1. In a blender, blend the tormuj, water, sugar, lime juice, and salt until smooth.\n2. Strain the mixture through a fine-mesh strainer.\n3. Pour into glasses and serve chilled.",
+        "rating": "4.2",
+        "description": "A refreshing summer drink made with sweet tormuj and a hint of lime.",
+        "category": "juice",
+        "tags": [
+            "tormuj",
+            "lime",
+            "healthy"
+        ]
+    },
+    {
+        "sl": "022",
+        "_id": "jXCm-0258-qwVf",
+        "chef_id": "jm-02-qwf",
+        "name": "Mango Lassi",
+        "image": "recipes_img/Mango_Lassi.png",
+        "ingredients": [
+            "1 ripe mango, peeled and chopped",
+            "1 cup plain yogurt",
+            "1/2 cup milk",
+            "2 tablespoons sugar",
+            "A pinch of ground cardamom"
+        ],
+        "cooking_method": "1. In a blender, blend the mango, yogurt, milk, sugar, and cardamom until smooth.\n2. Pour into glasses and serve chilled.",
+        "rating": "4.5",
+        "description": "A delicious and refreshing drink made with ripe mango and yogurt.",
+        "category": "juice",
+        "tags": [
+            "mango",
+            "lassi",
+            "yogurt",
+            "healthy"
+        ]
+    }
 ]
