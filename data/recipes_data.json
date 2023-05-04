@@ -393,8 +393,8 @@
         ],
         "cooking_method": "1. In a bowl, mix together flour, oil, salt and water to make dough.\n2. In a pan, heat oil and fry cumin, coriander and garam masala until fragrant.\n3. Add in the potatoes and cook for 5 minutes.\n4. Add in the peas and onions and cook for another 5 minutes.\n5. Add in the cilantro and remove from heat.\n6. Roll out the dough and cut into circles.\n7. Place the filling on one side of the circle and fold over.\n8. Fry in hot oil until golden brown.",
         "rating": 4.5,
-        "description": "A popular street food in Bangladesh, samosas are crispy and delicious appetizers that are perfect for any occasion.",
-        "category": "appetizers",
+        "description": "A popular street food in Bangladesh, samosas are crispy and delicious snacks that are perfect for any occasion.",
+        "category": "snacks",
         "tags": [
             "bangladeshi",
             "street food",
@@ -417,7 +417,7 @@
         "cooking_method": "Cook chickpeas and potatoes separately. Mix with spices and tamarind chutney. Serve cold or at room temperature.",
         "rating": 4.7,
         "description": "Chotpoti is a popular Bangladeshi street food that is tangy, spicy and full of flavor. It's a great appetizer for a party or a quick snack to enjoy on the go.",
-        "category": "appetizer",
+        "category": "snacks",
         "tags": [
             "bangladeshi",
             "street food",
@@ -440,7 +440,7 @@
         "cooking_method": "Mix the ingredients for the filling and fry in oil. Make a dough with flour and water, and roll out thin sheets. Cut the sheets into small squares, add the filling and fold into triangles. Fry in hot oil until golden brown.",
         "rating": 4.5,
         "description": "Shingara is a popular Bangladeshi snack that is crispy on the outside and savory on the inside. It's perfect for a quick snack or as an appetizer for a party.",
-        "category": "appetizer",
+        "category": "snacks",
         "tags": [
             "bangladeshi",
             "street food",
@@ -540,7 +540,6 @@
             "traditional"
         ]
     },
-    
     {
         "sl": "020",
         "_id": "faXc-9EuE-5T6d",
